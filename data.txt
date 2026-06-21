@@ -1,0 +1,50 @@
+Paris
+France
+19000000
+Eiffel Tower
+------------------------------
+London
+United Kingdom
+21000000
+British Museum
+------------------------------
+Dubai
+United Arab Emirates
+17000000
+Burj Khalifa
+------------------------------
+Marrakech
+Morocco
+3000000
+Jemaa el-Fnaa
+------------------------------
+Rome
+Italy
+10000000
+Colosseum
+------------------------------
+New York
+United States
+13500000
+Times Square
+------------------------------
+Istanbul
+Turkey
+20000000
+Hagia Sophia
+------------------------------
+Barcelona
+Spain
+12000000
+Sagrada Familia
+------------------------------
+Tokyo
+Japan
+15000000
+Shibuya Crossing
+------------------------------
+Bangkok
+Thailand
+22000000
+Grand Palace
+------------------------------
